@@ -63,7 +63,7 @@
     "react-native-safe-area-context": "4.14.0",
     "react-native-screens": "3.35.0",
     "react-native-svg": "15.8.0",
-    "ts-pattern": "5.5.0",
+    "ts-pattern": "5.7.1",
     "url-parse": "1.5.10",
     "urql": "4.2.0"
   },
