@@ -45,7 +45,7 @@
     "*": "prettier -u -w"
   },
   "dependencies": {
-    "@0no-co/graphql.web": "1.0.11",
+    "@0no-co/graphql.web": "1.1.2",
     "@formatjs/intl": "2.10.14",
     "@react-native-async-storage/async-storage": "2.0.0",
     "@react-navigation/native": "6.1.18",
